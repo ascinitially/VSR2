@@ -1,0 +1,22 @@
+.openDeals {
+    list-style: none;
+    width: 80%;
+    margin: auto;
+}
+
+.dealBox {
+    padding:1rem;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: .5rem;
+}
+
+.dealRow {
+    display: inline-block;
+}
+
+.for {
+    padding-left: 1rem;
+    padding-right: 1rem;
+   
+}
